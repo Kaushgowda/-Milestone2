@@ -320,15 +320,7 @@ To test by hand: sign in as each role, open each page, try each action, and scre
 - [ ] No secrets, `.db` files or tokens in the repository
 - [ ] Folder `Milestone2` in GitHub with the notebook and this README
 
-**Screenshots to add**
-- [ ] Login page and sign-up page
-- [ ] Profile page
-- [ ] Admin dashboard with the users table
-- [ ] A denied (403) action for a restricted role
-- [ ] The role matrix (in this README)
-- [ ] AI Copilot answering an exact question and a greeting
-- [ ] A page of each of the six agents
-
+**Screenshots**
 <img width="1600" height="758" alt="aalogin" src="https://github.com/user-attachments/assets/010befe9-326a-4e61-b0a3-0797a46ac8a1" />
 <img width="522" height="810" alt="image" src="https://github.com/user-attachments/assets/caf47678-70a2-4bc8-9bfe-fda9658613f2" />
 <img width="511" height="518" alt="image" src="https://github.com/user-attachments/assets/913668de-f900-4965-a68f-52ad6c691446" />
