@@ -175,19 +175,23 @@ Unsupported questions receive a helpful response with suggestions for supported 
 
 ### 6.2 Main Dashboard
 
-![Main Dashboard](Screenshots/Dashboard.png)
+<img width="1440" height="815" alt="Dashboard" src="https://github.com/user-attachments/assets/221c9be6-3987-43f4-b0ee-d9af2c5a0344" />
+
 
 ### 6.3 AI Copilot Interface
 
-![AI Copilot](Screenshots/Copilot.png)
+<img width="1438" height="809" alt="Copilot" src="https://github.com/user-attachments/assets/4ec65f06-a5f9-4966-81d8-2517cca8b859" />
+
 
 ### 6.4 Copilot SQL Query and Results
 
-![Copilot SQL Results](Screenshots/Copilot_query.png)
+<img width="1438" height="815" alt="Copilot_query" src="https://github.com/user-attachments/assets/8132c9de-b3c6-425e-bd51-65cf9b04cf55" />
+
 
 ### 6.5 Navigation and Application Modules
 
-![Application Navigation](Screenshots/Navigation.png)
+<img width="1440" height="811" alt="Navigation" src="https://github.com/user-attachments/assets/604593d7-1c6b-46df-a1e6-4de1acf04080" />
+
 
 ## 7. Project Structure
 
@@ -311,16 +315,6 @@ The authentication module includes login, registration, and password recovery en
 Milestone 2 extends the FranchiseOps AI Copilot by integrating authentication into the existing franchise management application while retaining its dashboard and database-driven Copilot capabilities.
 
 The application aims to provide a centralized platform where franchise users can access business information, interact with an AI-powered Copilot, and monitor operational performance through a structured interface.
-**Screenshots**
-<img width="1600" height="758" alt="aalogin" src="https://github.com/user-attachments/assets/010befe9-326a-4e61-b0a3-0797a46ac8a1" />
-<img width="511" height="518" alt="image" src="https://github.com/user-attachments/assets/913668de-f900-4965-a68f-52ad6c691446" />
-<img width="1917" height="898" alt="image" src="https://github.com/user-attachments/assets/b3818fca-dc21-4c89-babb-af878d0cd2ed" />
-<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/9c782a59-4374-423d-9489-ec7d5753b3bc" />
-<img width="1917" height="896" alt="image" src="https://github.com/user-attachments/assets/d900e761-79d8-475f-b740-2ce591b7dcf0" />
-<img width="1713" height="881" alt="image" src="https://github.com/user-attachments/assets/4e4d1898-de6c-435d-b9e7-41e4a7f72d4a" />
-<img width="1917" height="921" alt="image" src="https://github.com/user-attachments/assets/0db608c9-7640-42e6-bf43-b768ef37a406" />
-<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/e541e758-1a2b-47a6-98a2-cc07616d304c" />
-<img width="1917" height="897" alt="image" src="https://github.com/user-attachments/assets/d415c8d8-8f35-4b9f-a130-e5f107fa33ad" />
 
 
 
